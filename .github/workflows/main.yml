@@ -9,6 +9,3 @@ jobs:
       
       - name: Run Feed Generator
          uses: kaira0128/podcast-generator@main
-
-    env:
-      ACTIONS_STEP_DEBUG: true
